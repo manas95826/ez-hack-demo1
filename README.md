@@ -56,7 +56,7 @@ Welcome to the **AI-Powered Blog Generation System**! This tool helps you effort
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/ai-blog-generator.git
+   git clone https://github.com/manas95826/ez-hack-demo1.git
    cd ai-blog-generator
    ```
 
@@ -94,5 +94,5 @@ The app is deployed on [Streamlit Sharing](https://ezhack-glucon-d.streamlit.app
 
 ## Contact
 
-For any questions, feel free to reach out at [email@example.com](mailto:tanmayarora118@gmail.com).
+For any questions, feel free to reach out on [EMAIL](mailto:tanmayarora118@gmail.com).
 
