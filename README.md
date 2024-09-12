@@ -6,8 +6,6 @@ Welcome to the **AI-Powered Blog Generation System**! This tool helps you effort
 
 ---
 
-![AI Blog Generator](https://your-image-link.com)
-
 ## Features
 
 ### 1. **Customizable Writing Styles**
@@ -52,7 +50,7 @@ Welcome to the **AI-Powered Blog Generation System**! This tool helps you effort
 
 ---
 
-![Customization Options](https://your-image-link-2.com)
+![Customization Options](https://github.com/manas95826/ez-hack-demo1/blob/main/screenshot.jpeg)
 
 ## Getting Started
 
@@ -93,20 +91,8 @@ The app is deployed on [Streamlit Sharing](https://ezhack-glucon-d.streamlit.app
 - **Advanced Analytics**: Predictive content engagement and readability analysis.
 - **User Management**: Profiles for saving preferences and past blogs.
 
----
-
-## Contributing
-
-We welcome contributions! Please check our [Contribution Guidelines](https://github.com/yourusername/ai-blog-generator/contributing.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/ai-blog-generator/license) file for details.
 
 ## Contact
 
-For any questions, feel free to reach out at [email@example.com](mailto:email@example.com).
+For any questions, feel free to reach out at [email@example.com](mailto:tanmayarora118@gmail.com).
 
----
-
-Feel free to replace the placeholders (e.g., "your-image-link.com") with the actual links to images or the deployed app URL. This README provides a comprehensive overview while keeping it engaging with images and easy navigation.
