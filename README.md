@@ -94,5 +94,5 @@ The app is deployed on [Streamlit Sharing](https://ezhack-glucon-d.streamlit.app
 
 ## Contact
 
-For any questions, feel free to reach out on [EMAIL](mailto:tanmayarora118@gmail.com).
+For any questions, feel free to reach out on [Email](mailto:tanmayarora118@gmail.com).
 
