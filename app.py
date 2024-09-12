@@ -4,7 +4,7 @@ from groq import Groq
 client = Groq(api_key=st.secrets['groq_api_key'])
 
 context = '''You are an AI assistant tasked with generating high-quality blog posts for a blog generation system. The goal is to create AI-driven content with customizable writing styles, industry-specific terminology, content structure, and sentiment analysis. You will also provide SEO optimization, tone consistency, fact-checking, and support multilingual output.'''
-I
+
 def get_blog_completion(user_input):
     completion = client.chat.completions.create(
         messages=[{"role": "user", "content": f'{context}\n\n{user_input} That generated content should follow markdown languages'}],
