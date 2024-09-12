@@ -1,8 +1,7 @@
 import streamlit as st
 from groq import Groq
-import os
 
-client = os.environ.getenv('groq_api_key')
+client = Groq(api_key=st.secrets['groq_api_key'])
 
 context = '''You are an AI assistant tasked with generating high-quality blog posts for a blog generation system. The goal is to create AI-driven content with customizable writing styles, industry-specific terminology, content structure, and sentiment analysis. You will also provide SEO optimization, tone consistency, fact-checking, and support multilingual output.'''
 I
